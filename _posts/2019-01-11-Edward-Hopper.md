@@ -1,11 +1,12 @@
 ---
 layout: post
 title: "Edward Hopper's paintings"
+date:   2019-01-11 15:07:19
 excerpt: "My first blog"
 categories: [blog]
 comments: true
 image:
-  feature: https://goo.gl/images/QqD9e9
+  feature: https://img3.doubanio.com/view/thing_review/l/public/p1643082.webp
   credit: A Room in New York (Edward Hopper, 1932)
   creditlink: https://www.edwardhopper.net/
 ---
