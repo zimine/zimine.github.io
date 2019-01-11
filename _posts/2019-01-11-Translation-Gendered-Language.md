@@ -1,9 +1,9 @@
 ---
 layout: post
-title: "语言影响思维吗？"
+title: "语言影响思维？"
 date:   2019-01-11 15:07:19
-excerpt: "Random thoughts on Edward Hopper's paintings"
-categories: [blog]
+excerpt: "It is the Chinese translation of *Does Your Language Influence How You Think?*"
+categories: [translation]
 comments: true
 ---
 
