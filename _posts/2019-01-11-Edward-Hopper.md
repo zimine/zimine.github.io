@@ -37,4 +37,4 @@ Fashion axe hella gastropub lo-fi kogi 90's aliquip +1 veniam delectus tousled. 
 Actually salvia consectetur, hoodie duis lomo YOLO sunt sriracha. Aute pop-up brunch farm-to-table odio, salvia irure occaecat. Sriracha small batch literally skateboard. Echo Park nihil hoodie, aliquip forage artisan laboris. Trust fund reprehenderit nulla locavore. Stumptown raw denim kitsch, keffiyeh nulla twee dreamcatcher fanny pack ullamco 90's pop-up est culpa farm-to-table. Selfies 8-bit do pug odio.
 
 
-[^1]:[Sheldon-Art-Museum](https://sheldonartmuseum.org/)
+[^1]:[Sheldon Art Museum](https://sheldonartmuseum.org/)
