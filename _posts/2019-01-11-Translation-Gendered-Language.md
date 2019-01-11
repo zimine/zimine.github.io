@@ -2,7 +2,7 @@
 layout: post
 title: "语言影响思维？"
 date:   2019-01-11 15:07:19
-excerpt: "It is the Chinese translation of *Does Your Language Influence How You Think?*"
+excerpt: "It is the Chinese translation of Does Your Language Influence How You Think?"
 categories: [translation]
 comments: true
 ---
