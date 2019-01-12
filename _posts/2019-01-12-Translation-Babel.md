@@ -8,6 +8,6 @@ comments: true
 ---
 It is the Chinese translation of **The surprising pattern behind color names around the world**. The original video is posted by [VOX](https://www.youtube.com/watch?v=YS-QNKYYSTw&t=100s). 
 
-<iframe width="820" height="615" src=src="//player.bilibili.com/player.html?aid=13727946&cid=22451821&page=1" frameborder="no" allowfullscreen="true"></iframe>
+<iframe width="820" height="615" src="//player.bilibili.com/player.html?aid=13727946&cid=22451821&page=1" frameborder="no" allowfullscreen="true"></iframe>
 
 
