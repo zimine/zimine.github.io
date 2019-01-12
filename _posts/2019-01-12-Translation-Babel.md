@@ -2,7 +2,7 @@
 layout: post
 title: "巴别塔VS语言学：人类都曾讲同一种语言?"
 date:   2019-01-12 11:17:19
-excerpt: Chinese-English bilingual subtitles were added to the video: Tower of Babel vs Linguistics - The quest for the first language. 
+excerpt: "Chinese-English bilingual subtitles were added to the video: Tower of Babel vs Linguistics - The quest for the first language." 
 categories: [translation]
 comments: true
 ---
