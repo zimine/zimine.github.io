@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "为什么几乎所有语言中都有“红色”这个词?"
-date:   2019-01-12 14:07:19
+date:   2019-01-12 14:24:19
 excerpt: "It is a Chinese translation of the Aeon essay: What Plato knew about behavioural economics. (A lot)"
 categories: [translation]
 comments: true
