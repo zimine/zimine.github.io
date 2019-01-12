@@ -6,7 +6,7 @@ excerpt: "It is the Chinese translation of the New Yorker article: Cormac McCart
 categories: [translation]
 comments: true
 ---
-上周，小说家科马克·麦卡锡(Cormac McCarthy)在著名科学杂志 Nautilus上出版了生涯第一部纪实文学作品，一篇题为[《凯库勒问题》](http://nautil.us/issue/47/consciousness/the-kekul-problem)的三千字科学小品。这篇文章充斥着许多引人遐想的细节：人喉解剖、麻醉状态下海豚的反应、科伊桑语中搭嘴音（吸气音）的起源，这些都指向一对难解的问题：为什么人类语言会源起于某物？语言与无意识又有怎样的联系？
+上周，小说家科马克·麦卡锡（Cormac McCarthy）在著名科学杂志 Nautilus上出版了生涯第一部纪实文学作品，一篇题为[《凯库勒问题》](http://nautil.us/issue/47/consciousness/the-kekul-problem)的三千字科学小品。这篇文章充斥着许多引人遐想的细节：人喉解剖、麻醉状态下海豚的反应、科伊桑语中搭嘴音（吸气音）的起源，这些都指向一对难解的问题：为什么人类语言会源起于某物？语言与无意识又有怎样的联系？
 
 五年前，受邀于《新闻周刊》杂志，[我在圣塔菲研究所（Santa Fe Institute）采访了麦卡锡](https://www.newsweek.com/cormac-mccarthy-santa-fe-institutes-brainy-halls-65701)。圣塔菲研究所是一个科学理论研究中心，麦卡锡任其董事会成员，他在过去二十年间花了相当一部分时间在此做研究。圣塔菲研究所致力于在各领域，从细胞生物学到人类社会，推动对复杂系统基本原理的理解。麦卡锡这篇文章最早源于与圣塔菲现任主席、计算生物学家大卫·克拉克尔（David Krakauer）的对话，这些年与其他同事和科学家的交流对话也给予了麦卡锡灵感源泉。我们的访谈在圣塔菲图书馆进行，我们几乎要被近八千本类似题为《应用混沌学》和《算法起源》的书籍包围。让麦卡锡深深着迷的，正是诸如此类的学科以及正在研究它们的科学家，而非现代文学的最新进展。当我问他为什么从来不读最新的小说时，他看着我就像是一个人为什么想知道有人拒绝喝脏水一样，“没法儿读”，他说。
 
