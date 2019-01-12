@@ -1,9 +1,13 @@
 ---
 layout: post
-title: "为什么几乎所有语言中都有“红色”这个词?"
+title: "柏拉图式非理性：关于认知偏见的古典哲学"
 date:   2019-01-12 14:24:19
 excerpt: "It is a Chinese translation of the Aeon essay: What Plato knew about behavioural economics. (A lot)"
 categories: [translation]
+image:
+  feature: https://neu-reality.com/wp-content/uploads/2017/08/52257470_1.jpg
+  credit: The School of Athens (Raphael, 1509)
+  creditlink: https://en.wikipedia.org/wiki/The_School_of_Athens
 comments: true
 ---
 在其著作《论具有现代头脑》（On Being Modern-Minded）中，伯特兰·罗素描绘了他对历史和人类才智进步的美好幻想。因为每个时代的人都会放大其独特性，并将自身看做过往时代进步的顶峰，其与先前历史阶段的连续性易被忽视：“新的流行语让我们忽视了其实我们的祖先和我们有着类似的想法和感受，只是换了个说法而已。”
