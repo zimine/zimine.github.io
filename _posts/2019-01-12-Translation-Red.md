@@ -7,4 +7,4 @@ categories: [translation]
 comments: true
 ---
 It is the Chinese translation of **The surprising pattern behind color names around the world**.
-<iframe width="820" height="615" src="//player.bilibili.com/player.html?aid=13434648&cid=22008594&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
+<iframe width="820" height="615" src="//player.bilibili.com/player.html?aid=13434648&cid=22008594&page=1" frameborder="no" allowfullscreen="true"></iframe>
