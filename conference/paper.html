@@ -1,9 +1,54 @@
 <html>
 <head>
 <title>Mingyu YUAN's Conference Paper</title>
+<script>
+  var ids=["student", "educator", "parent", "not-school", "publisher"];
+var dropDown = document.getElementById("roleSel");
+
+dropDown.onchange = function(){
+    for(var x = 0; x < ids.length; x++){   
+        document.getElementById(ids[x]).style.display="none";
+    }    
+    document.getElementById(this.value).style.display = "block";
+}
+  </script>
 </head>
 <body>
+ <h1>CNS2019_abstract</h1>
 <embed src="https://zimine.github.io/conference/CNS2019_abstract.pdf" width="100%" height="100%" 
  type="application/pdf">
+ 
+ <div class="field">
+    <!-- <label for="roleBox" data-label="I_AM">{% trans %} main.I_AM_TITLE {% endtrans %}</label> -->
+    <div class="f-wrapper">
+       <select id="roleSel" class="cbx" tabindex="50" name="role">
+              <option value="paper01">CNS2019_abstract.pdf</option>
+              <option value="paper02">CUNY2019_abstract1.pdf</option>
+              <option value="paper03">CUNY2019_abstract2.pdf</option>
+              <option value="paper04">ESP2016_abstract.pdf</option>
+              <option value="paper05">IMPRS2018_abstract.pdf</option>
+       </select>
+    </div>
+ </div>
+<div id="paper01" class="hidden">
+  <embed src="https://zimine.github.io/conference/CNS2019_abstract.pdf" width="100%" height="100%" 
+ type="application/pdf">
+</div>
+<div id="paper02" class="hidden">
+  <embed src="https://zimine.github.io/conference/CUNY2019_abstract1.pdf" width="100%" height="100%" 
+ type="application/pdf">
+</div>
+<div id="paper03" class="hidden">
+  <embed src="https://zimine.github.io/conference/CUNY2019_abstract2.pdf" width="100%" height="100%" 
+ type="application/pdf">
+</div>
+<div id="paper04" class="hidden">
+  <embed src="https://zimine.github.io/conference/ESP2016_abstract.pdf" width="100%" height="100%" 
+ type="application/pdf">
+</div>
+<div id="paper05" class="hidden">
+  <embed src="https://zimine.github.io/conference/IMPRS2018_abstract.pdf" width="100%" height="100%" 
+ type="application/pdf">
+</div>
 </body>
 </html>
